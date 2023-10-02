@@ -1,7 +1,5 @@
-import logo from "./logo.svg";
 import React, { useState } from "react";
 import "./App.css";
-import { typeImplementation } from "@testing-library/user-event/dist/type/typeImplementation";
 
 function App() {
   const jokesObj = {
